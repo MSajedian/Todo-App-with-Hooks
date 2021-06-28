@@ -1,6 +1,6 @@
 import { ADD_TODO, TOGGLE_COMPLETED, RESET } from "../actions/types";
 
-const initialState = {
+export const initialState = {
   list: []
 };
 
